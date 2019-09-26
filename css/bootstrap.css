@@ -477,7 +477,7 @@ mark,
 }
 
 .img-fluid {
-  max-width: auto;
+  max-width: fit-content;
   /*height: auto;*/
 }
 
