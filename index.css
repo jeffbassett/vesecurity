@@ -14,3 +14,7 @@
 #keypersonaltitle {
     color: #333138;
 }
+
+html {
+    scroll-behavior: smooth;
+}
