@@ -4094,7 +4094,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link.disabled {
-  color: #6c757d;
+  color: #333138;
   background-color: transparent;
   border-color: transparent;
 }
