@@ -19,6 +19,6 @@ html {
     scroll-behavior: smooth;
 }
 
-#twitter_embed {
+.twitter_embed {
     float: right;
 }
