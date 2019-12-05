@@ -1,7 +1,7 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
     apiKey: "AIzaSyCWsGK0mw568gaE5bPi-eELYZB20yO9jKU",
-    authDomain: "ve-security.firebaseapp.com",
+    authDomain: "vesecurity.firebaseapp.com",
     databaseURL: "https://ve-security.firebaseio.com",
     projectId: "ve-security",
     storageBucket: "ve-security.appspot.com",
