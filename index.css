@@ -29,3 +29,17 @@ html {
 .newproductstitle {
     text-align: center;
 }
+
+.bg-headerimg{
+    background-image: url('/images/TWITTERHEADER.jpg');
+    background-position: center;
+    height: 300px;
+}
+
+
+.bg-sabanner{
+    background-image: url('/images/sabanner.jpg');
+    background-position: center;
+    background-size: 85%;
+    background-repeat: no-repeat;
+}
