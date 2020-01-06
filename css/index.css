@@ -1,6 +1,5 @@
 *{
     font-family: 'Allerta Stencil', sans-serif;
-
 }
 #myCarousel {
     width: 1100px;
@@ -10,33 +9,21 @@
     width: 100%;
     height: 275px;
 }
-
 #keypersonalname {
     color: #D00000;
 }
-
 #keypersonaltitle {
     color: #333138;
 }
-
 html {
     scroll-behavior: smooth;
 }
-
 #redtext {
     color: #D00000;
 }
 .newproductstitle {
     text-align: center;
 }
-
-.bg-headerimg{
-    background-image: url('/images/TWITTERHEADER.jpg');
-    background-position: center;
-    height: 300px;
-}
-
-
 .bg-sabanner{
     background-image: url('/images/sabanner.jpg');
     background-position: center;
